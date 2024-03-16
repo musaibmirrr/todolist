@@ -10,7 +10,7 @@ This project is a basic ToDo list application that allows users to add and mark 
 
 - Add tasks
 - remove list
-- Mark tasks as completed
+- Mark tasks as completed by clicking on the task itself.
 - Responsive design using Bootstrap
 
 ## Technologies Used
